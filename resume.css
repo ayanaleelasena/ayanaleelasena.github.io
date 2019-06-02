@@ -1,12 +1,15 @@
 body {
-	background-color: black
+	background-color: black;
 }
 h1 {
-	color: aqua
+	color: aqua;
+	font-size: 5em;
 }
 h2{
-	color: yellow
+	color: yellow;
+	font-size: 3em;
+
 }
 p {
-	color: white
+	color: white;
 }
