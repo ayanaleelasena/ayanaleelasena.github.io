@@ -1,1 +1,3 @@
 # github.io
+The work that has been correctly completed for this lab is an html page for my resume, bio, and index (homepage). I used the information provided to me on the comp 20 website, and external links including https://learn.shayhowe.com/html-css/building-your-first-web-page/.
+I spent around 3 hours working on this lab. I was stuck for a while, because my github url did not work at first, but after asking about it in piazza I realized I needed to create a respository that included my name. 
