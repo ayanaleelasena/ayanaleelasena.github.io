@@ -1,5 +1,6 @@
 body {
 	background-color: black;
+	font-size:150%;
 }
 h1 {
 	color: aqua;
@@ -12,4 +13,9 @@ h2{
 }
 p {
 	color: white;
+}
+p2{
+	color:green;
+	font-size: 2em;
+
 }
