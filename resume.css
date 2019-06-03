@@ -4,18 +4,17 @@ body {
 }
 h1 {
 	color: aqua;
-	font-size: 5em;
+	font-size: 4em;
 }
 h2{
 	color: yellow;
-	font-size: 3em;
+	font-size: 2em;
 
+}
+h3{
+	color:green;
+	font-size: 2em;
 }
 p {
 	color: white;
-}
-p2{
-	color:green;
-	font-size: 2em;
-
 }
